@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "512631380422",
+    "firebase_url": "https://mycyclenode.firebaseio.com",
+    "project_id": "mycyclenode",
+    "storage_bucket": "mycyclenode.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512631380422:android:034b41a33e8ea9da503ac7",
+        "android_client_info": {
+          "package_name": "com.example.mycyclenode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "512631380422-6rbissn8nahci2k1333mqpimlkjfi9md.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mycyclenode",
+            "certificate_hash": "e8920e635a6376813ded1630b2bde38cb4bcb16e"
+          }
+        },
+        {
+          "client_id": "512631380422-hjgaro5gp3svdg4uou56d2s9ifh2m0a4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATn__yLozDCQWq44eThDgAeqEYP43DvKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "512631380422-hjgaro5gp3svdg4uou56d2s9ifh2m0a4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
